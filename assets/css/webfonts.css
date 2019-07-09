@@ -1,0 +1,62 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 3532700, 2018-02-26T13:58:56-0500
+ *
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are
+ * explicitly restricted from using the Licensed Webfonts(s).
+ *
+ * You may obtain a valid license at the URLs below.
+ *
+ * Webfont: Rival-Bold by Mostardesign
+ * URL: https://www.myfonts.com/fonts/mostardesign/rival/bold/
+ * Copyright: Copyright &#x00A9; 2017 by Olivier Gourvat. All rights reserved.
+ *
+ * Webfont: Rival-BoldItalic by Mostardesign
+ * URL: https://www.myfonts.com/fonts/mostardesign/rival/bold-italic/
+ * Copyright: Copyright &#x00A9; 2016 by Olivier Gourvat. All rights reserved.
+ *
+ * Webfont: Rival-Regular by Mostardesign
+ * URL: https://www.myfonts.com/fonts/mostardesign/rival/regular/
+ * Copyright: Copyright &#x00A9; 2017 by Olivier Gourvat. All rights reserved.
+ *
+ * Webfont: Rival-RegularItalic by Mostardesign
+ * URL: https://www.myfonts.com/fonts/mostardesign/rival/regular-italic/
+ * Copyright: Copyright &#x00A9; 2016 by Olivier Gourvat. All rights reserved.
+ *
+ *
+ * License: https://www.myfonts.com/viewlicense?type=web&buildid=3532700
+ * Licensed pageviews: 10,000
+ *
+ * © 2018 MyFonts Inc
+*/
+@font-face {
+	font-family: 'rvl';
+	font-style: normal;
+	font-weight: 400;
+	src: url('https://glueckpress.com/wp-content/themes/sanse-glck/assets/webfonts/35E79C_2_0.woff2') format('woff2'),
+	     url('https://glueckpress.com/wp-content/themes/sanse-glck/assets/webfonts/35E79C_2_0.woff') format('woff'),
+	     url('https://glueckpress.com/wp-content/themes/sanse-glck/assets/webfonts/35E79C_2_0.ttf') format('truetype'),
+	     url('https://glueckpress.com/wp-content/themes/sanse-glck/assets/webfonts/35E79C_2_0.eot') format('embedded-opentype');
+	unicode-range: U+00-FF;
+}
+@font-face {
+	font-family: 'rvl';
+	font-style: italic;
+	font-weight: 400;
+	src: url('https://glueckpress.com/wp-content/themes/sanse-glck/assets/webfonts/35E79C_3_0.woff2') format('woff2'),
+	     url('https://glueckpress.com/wp-content/themes/sanse-glck/assets/webfonts/35E79C_3_0.woff') format('woff'),
+	     url('https://glueckpress.com/wp-content/themes/sanse-glck/assets/webfonts/35E79C_3_0.ttf') format('truetype'),
+	     url('https://glueckpress.com/wp-content/themes/sanse-glck/assets/webfonts/35E79C_3_0.eot') format('embedded-opentype');
+	unicode-range: U+00-FF;
+}
+@font-face {
+	font-family: 'rvl';
+	font-style: normal;
+	font-weight: 700;
+	src: url('https://glueckpress.com/wp-content/themes/sanse-glck/assets/webfonts/35E79C_0_0.woff2') format('woff2'),
+	     url('https://glueckpress.com/wp-content/themes/sanse-glck/assets/webfonts/35E79C_0_0.woff') format('woff'),
+	     url('https://glueckpress.com/wp-content/themes/sanse-glck/assets/webfonts/35E79C_0_0.ttf') format('truetype'),
+	     url('https://glueckpress.com/wp-content/themes/sanse-glck/assets/webfonts/35E79C_0_0.eot') format('embedded-opentype');
+	unicode-range: U+00-FF;
+}
